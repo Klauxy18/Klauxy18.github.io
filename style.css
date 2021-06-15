@@ -4,8 +4,8 @@ body{
 }
 .container{
   text-align: left ;
-  margin-top: 30px;
-  margin-bottom: 30px;
+  margin-top: 50px;
+  margin-bottom: 0px;
 }
 .btn{
   border: 1px solid #DD80F1;
@@ -83,4 +83,18 @@ h2{
     margin-top: 100px;
     margin-bottom: 30px;
     }
+
+    strong{
+      color: #DD80F1;
+    }
+    strong{
+      text-align: left ;
+      margin-top: 1000px;
+      margin-bottom: 30px;
+      }
+     iframe{
+      margin-top: 200px;
+      margin-left: 20px
+     }
+   
  
